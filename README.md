@@ -1,4 +1,5 @@
-![9240DC7B-E778-4505-AE74-B84E859E3D4B](https://github.com/yudododo/yudododo/assets/135632056/2bde4358-4037-4d96-9b50-a151bd75bdb8)
+![yudododo_banner_github2](https://github.com/yudododo/yudododo/assets/135632056/28b93211-3030-403f-97ae-0a17e0282e37)
+
 <p align="center">👋 Hey there! I'm a new to frontend with a burning passion for web programming. 💗💗💗
 </p>
 
